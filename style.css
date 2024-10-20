@@ -16,8 +16,8 @@ body {
 }
 
 #image-container {
-    max-width: 50vw; /* Limit width to 50% of the viewport width */
-    max-height: 50vh; /* Limit height to 50% of the viewport height */
+    max-width: 77vw; /* Limit width to 50% of the viewport width */
+    max-height: 77vh; /* Limit height to 50% of the viewport height */
     overflow: hidden; /* Hide overflow if the image is larger */
     display: flex; /* Use flexbox for centering the image */
     justify-content: center; /* Center image horizontally */
